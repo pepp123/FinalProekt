@@ -1,0 +1,12 @@
+.prva_sekcija{
+    background-image: url(banner.jpg);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    border-top: 0.4rem solid #5385c1;
+}
+
+.ps_naslov_wrap{
+    padding-top: 8rem;
+    padding-bottom: 13.8rem;
+}
